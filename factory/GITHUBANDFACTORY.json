@@ -1,0 +1,9 @@
+{
+	"name": "GITHUBANDFACTORY",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b7d3cb3f-a014-4925-ae3d-142f312b88ca",
+		"tenantId": "ad4a5796-fe26-40eb-a14d-5d4df7cfb699"
+	}
+}
